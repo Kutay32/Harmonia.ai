@@ -1,4 +1,4 @@
 Harmonia AI Official Github Page 
-![Header](./your-header-image-name.png)
+![Header](./header.png)
 One Click User Interface will work with engine.py
 
