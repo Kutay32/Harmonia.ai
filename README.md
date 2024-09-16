@@ -1,11 +1,9 @@
-Harmonia AI Official Github Page 
+
+
+# HARMONIA.AI OFFICIAL PAGE
+
 ![Header](./header.png)
 ![Banner](./banner.png)
-One Click User Interface will work with engine.py
-
-
-# HARMONIA.AI
-
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
 [![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
@@ -39,7 +37,7 @@ The badges used here were generated with [shields.io](https://shields.io/).
 
 ![Preview](https://picsum.photos/1920/1080)
 
-We will provide our AI as One-Click UI for easy to be use. 
+We will provide our AI as One-Click UI for easy to be use. You can use engine.py
 > **Note**: Current Release.
 
 
