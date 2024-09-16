@@ -23,18 +23,14 @@ The badges used here were generated with [shields.io](https://shields.io/).
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 : Current release version.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-: The last commit time.
-
 ![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 
 ![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
 
 
-# Quick Start Demo
+# Quick Start 
 
 ![Preview](https://picsum.photos/1920/1080)
 
