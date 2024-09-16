@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import cv2
 
-data = "lgg-mri-segmentation/kaggle_3m"
+data = "data/lgg-mri-segmentation/kaggle_3m"
 
 images = []
 masks = []
