@@ -1,0 +1,9 @@
+python==3.11
+keras==3.5.0
+matplotlib==3.9.2
+numpy==2.1.1
+opencv_python==4.10.0.84
+pandas==2.2.2
+scikit_learn==1.5.2
+tensorflow==2.17.0
+tensorflow_intel==2.17.0
