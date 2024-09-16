@@ -21,6 +21,7 @@ The badges used here were generated with [shields.io](https://shields.io/).
 <!-- Add badges with link to Shields IO -->
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+
 : Current release version.
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
