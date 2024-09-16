@@ -45,7 +45,9 @@ We will provide our AI as One-Click UI for easy to be use. You can use engine.py
 ```shell
 gh repo clone Kutay32/Harmonia.ai
 ```
-
+```shell
+pip install -r requirements.txt
+```
 
 # License
 
