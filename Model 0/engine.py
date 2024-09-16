@@ -30,8 +30,6 @@ from sklearn.model_selection import train_test_split
 #Early Stopping
 from tensorflow.keras.callbacks import EarlyStopping
 
-# Callback
-from tensorflow.keras.callbacks import EarlyStopping
 
 
 
