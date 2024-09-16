@@ -42,10 +42,6 @@ We will provide our AI as One-Click UI for easy to be use. You can use engine.py
 # Installation
 
 
-This is where your installation instructions go.
-
-You can add snippets here that your readers can copy-paste with click:
-
 ```shell
 gh repo clone Kutay32/Harmonia.ai
 ```
