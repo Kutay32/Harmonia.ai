@@ -1,8 +1,7 @@
-keras==3.5.0
+torch
 matplotlib==3.9.2
-numpy==1.26.4
 opencv_python==4.10.0.84
 pandas==2.2.2
 scikit_learn==1.5.2
-tensorflow==2.17.0
-tensorflow_intel==2.17.0
+
+
