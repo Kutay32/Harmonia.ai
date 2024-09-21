@@ -1,0 +1,11 @@
+torch==2.4.1
+albumentations==1.4.13
+albucore==0.0.16
+matplotlib
+numpy
+opencv_python==4.10.0.84
+pandas==2.2.3
+scikit_learn
+segmentation_models_pytorch
+skimage
+tqdm==4.66.5
