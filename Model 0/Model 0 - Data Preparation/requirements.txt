@@ -1,0 +1,7 @@
+monailabel
+pydicom
+nibabel
+numpy
+torch
+segmentation-models-pytorch
+requests

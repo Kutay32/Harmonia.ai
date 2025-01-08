@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Model 0/Model 0 - Data Preparation/MONAILabel" vcs="Git" />
   </component>
 </project>
